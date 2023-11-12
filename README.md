@@ -41,5 +41,6 @@ ________________________________________________________________________________
 
 
 ## Screenshots
-![f](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/f3bddee6-1e5c-492e-b111-51022bc832c3)
+
+![f](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/497ba645-e3d1-4d42-a7c3-b6ec40a261de)
 
