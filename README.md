@@ -42,26 +42,28 @@ ________________________________________________________________________________
 
 ## Screenshots
 
-![Screenshot 2023-11-12 160036](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/c0333dc9-2ac8-4f8f-8e52-884149b94d9e)
+![a1](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/9f08b31f-e22b-472e-993e-c4e0f9a92ecd)
+
+
+![a2](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/89473577-0474-4017-892f-a171a2919fb8)
+
+
+![a3](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/7bda8851-7ee3-4f91-8f3e-541a1c578e20)
 
 
 
-![Screenshot 2023-11-12 160232](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/709d1db4-53dc-41dc-aaaa-257bdd45265e)
+![a4](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/30fb6922-3d56-441e-ad11-7ba3b5b2a250)
 
 
-![Screenshot 2023-11-12 160240](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/e2419b1e-e1df-46c7-b0a2-b08af0f51332)
+
+![a5](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/7422f88a-806b-46f9-9851-ab821b598526)
 
 
-![Screenshot 2023-11-12 160304](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/c4093324-31ad-4158-8f01-f6ab67b47a14)
+![a6](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/c4fbbeec-31cb-47e5-ab84-cd4628312517)
 
 
-![Screenshot 2023-11-12 160321](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/836788b6-193c-4e8f-b9c1-68f743592179)
+![a7](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/1e6fc01c-6a00-48ad-840e-632d5131f1d3)
 
-
-![Screenshot 2023-11-12 160336](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/e720eff1-d614-40b9-9d1e-8ab5aeaeb95b)
-
-
-![Screenshot 2023-11-12 160402](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/8e6fa496-e3ea-410b-97f7-3489464cb694)
 
 
 
