@@ -42,6 +42,6 @@ ________________________________________________________________________________
 
 ## Screenshots
 
+![Screenshot 2023-11-12 160036](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/c0333dc9-2ac8-4f8f-8e52-884149b94d9e)
 
 
-![f](https://github.com/sara-salah1/Pharmacy-Management-System/assets/67710906/da0f98e4-9835-4c72-b7b8-59d5b9c48b1b)
